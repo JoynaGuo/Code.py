@@ -1,1 +1,1 @@
-The  code includes the information and relevant files about how to predict the remaining life of batteries based on the early 30 cycles in the way of creating non-linear models and the impoved model will be provided upon request. 
+The  code includes the information and relevant files about how to predict the remaining life of batteries based on the early 30-*** cycles in the way of creating non-linear models and the impoved model will be provided upon request. 
